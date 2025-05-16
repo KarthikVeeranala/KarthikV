@@ -16,7 +16,7 @@
 #### 🎮 **Game Development**
 - Unreal Engine (Blueprints + C++)
 - Unity (C# — beginner)
-- Godot (exploring)
+- Love2D (exploring)
 
 #### 🧠 **Programming Languages**
 - C++ (core language)
@@ -28,7 +28,7 @@
 
 #### 🔧 **Tools & Platforms**
 - Git & GitHub (version control)
-- Visual Studio, VS Code, CLion, Rider
+- Visual Studio, VS Code
 - Blender (basic 3D assets)
 - Figma (UI/UX mockups)
 
