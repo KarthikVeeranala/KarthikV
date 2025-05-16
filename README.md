@@ -49,6 +49,13 @@
 
 ---
 
+## 🌐 Live Website
+
+📡 **Visit now:**  
+[https://karthikveeranala.github.io/portfolio](https://karthikveeranala.github.io/portfolio)
+
+---
+
 ### 📫 Reach me at
 - Email: [veeranalakarthik@gmail.com](mailto:veeranalakarthik@gmail.com)
 - LinkedIn: [https://www.linkedin.com/in/karthik-v-561022343/](https://www.linkedin.com/in/karthik-v-561022343/)
