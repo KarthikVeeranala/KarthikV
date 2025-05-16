@@ -51,8 +51,8 @@
 ---
 
 ### 📫 Reach me at
-- Email: [your.email@example.com](mailto:veeranalakarthik@gmail.com)
-- LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/karthik-v-561022343/)
+- Email: [veeranalakarthik@gmail.com](mailto:veeranalakarthik@gmail.com)
+- LinkedIn: [https://www.linkedin.com/in/karthik-v-561022343/](https://www.linkedin.com/in/karthik-v-561022343/)
 
 ---
 
