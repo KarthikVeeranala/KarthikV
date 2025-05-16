@@ -46,7 +46,6 @@
   - 🏆 **1 MLH Hackathon** – created an immersive multiplayer game in under 48 hours  
   - 🏅 **2 University/Community Hackathons** – developed engaging game mechanics with C++ and Unity  
 - 📁 Uploading playable builds and code to GitHub soon!
-- 📌 Check out pinned repos below 👇
 
 ---
 
