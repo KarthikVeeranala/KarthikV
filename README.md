@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karthik V</h1>
-<h3 align="center">🎮 Game Dev Enthusiast | 💻 BTech CS Student @ IARE Hyderabad</h3>
+<h3 align="center">🎮 Game Dev Enthusiast | 💻 BTech CSE Student @ IARE Hyderabad</h3>
 
 ---
 
@@ -12,23 +12,47 @@
 ---
 
 ### 🛠️ Tech Stack
-- 🎮 Unreal Engine
-- 🧠 C++
-- 🕹️ Unity (beginner)
-- 🔧 Git & GitHub
-- 🖥️ VS Code, Rider, CLion
+
+#### 🎮 **Game Development**
+- Unreal Engine (Blueprints + C++)
+- Unity (C# — beginner)
+- Godot (exploring)
+
+#### 🧠 **Programming Languages**
+- C++ (core language)
+- C# (Unity)
+- JavaScript (for game UI/web integration)
+- Java (academic + general use)
+- Python (for tools/scripting)
+- HTML/CSS (optional for frontend)
+
+#### 🔧 **Tools & Platforms**
+- Git & GitHub (version control)
+- Visual Studio, VS Code, CLion, Rider
+- Blender (basic 3D assets)
+- Figma (UI/UX mockups)
+
+#### ⚙️ **Game Dev Concepts**
+- OOP & design patterns
+- Physics engines (Unreal/Unity)
+- Game loops & input systems
+- Multiplayer systems
 
 ---
 
 ### 🏆 Projects & Wins
-Stay tuned — I’m uploading my winning hackathon games here soon!  
-Meanwhile, check out pinned projects below 👇
+
+- 🥇 **Winner of 3 Hackathons** — built games that stood out for creativity and execution:
+  - 🏆 **1 MLH Hackathon** – created an immersive multiplayer game in under 48 hours  
+  - 🏅 **2 University/Community Hackathons** – developed engaging game mechanics with C++ and Unity  
+- 📁 Uploading playable builds and code to GitHub soon!
+- 📌 Check out pinned repos below 👇
 
 ---
 
 ### 📫 Reach me at
 - Email: [your.email@example.com](mailto:your.email@example.com)
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile) *(optional)*
+- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
 
 ---
 
